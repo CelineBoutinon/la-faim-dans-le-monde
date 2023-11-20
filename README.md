@@ -1,7 +1,7 @@
 
 MENTIONS LÉGALES  
 
-Étude produite par 143210563+CelineBoutinon@users.noreply.github.com sur la base des données en libre-accès sur https://www.fao.org/faostat/en/#home. Les analyses présentées dans ce dossier sont la responsabilité seule de l’auteure.
+Étude produite par CelineBoutinon sur la base des données en libre-accès sur https://www.fao.org/faostat/en/#home. Les analyses présentées dans ce dossier sont la responsabilité seule de l’auteure.
 Information sur la licence pour l’utilisation des données de la FAO : https://www.fao.org/contact-us/terms/en/
 
 
@@ -20,7 +20,7 @@ L’objectif de ce projet est de réaliser une étude sur la sous-nutrition dans
 ## Liste des dossiers & fichiers
 
 * **dossiers :**
-  - **donnees-brutes :** fichiers téléchargés depuis les sources (format csv) 
+  - **donnees-brutes :** fichiers téléchargés depuis les sources (format .csv) 
 
 
 * **fichiers :**
