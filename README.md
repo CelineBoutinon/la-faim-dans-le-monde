@@ -8,7 +8,7 @@ Information sur la licence pour l’utilisation des données de la FAO : https:/
 
 # REALISER UNE ETUDE DE SANTE PUBLIQUE AVEC PYTHON
 
-Projet realisé en février 2023 dans le cadre de ma formation Data Analyst avec OpenClassrooms.
+Projet realisé en février 2023 dans le cadre de ma formation Data Analyst avec l'ENSAE-ENSAI Formation Continue (Cepe)/OpenClassrooms.
 
 ## Objectif du projet
 
